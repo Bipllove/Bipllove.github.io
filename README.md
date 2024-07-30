@@ -24,7 +24,7 @@ Dedication
 Teamwork  
 Adaptive Mindset  
 PowerPoint  
-Excel  
+[Excel](https://github.com/Bipllove/Bipllove.github.io/blob/main/Bipllove%20Bhumbla.pdf)  
 DaVinci Resolve  
 Canva  
 
